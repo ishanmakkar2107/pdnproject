@@ -1,6 +1,6 @@
 # PDN Project — Drosophila Neurotransmitter Mapping
 
-Analysis code for mapping GABA neurotransmitter expression onto the reconstructed L1 *Drosophila melanogaster* larval CNS connectome, as part of an undergraduate research project.
+Analysis code for mapping GABA neurotransmitter expression onto the reconstructed L1 *Drosophila melanogaster* larval CNS connectome, as part of the PDN project (AY2025-2026).
 
 ## Project Overview
 
@@ -29,7 +29,7 @@ pip install pymaid navis scipy matplotlib seaborn plotly
 
 ## Requirements
 
-Access to a running CATMAID instance is required to fetch neuron data. Credentials should be stored in a local `config.py` file (not tracked by git).
+Access to a running CATMAID instance is required to fetch neuron data. Credentials not included. 
 
 ## Reference
 
